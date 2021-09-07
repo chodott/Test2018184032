@@ -1,3 +1,2 @@
 #이름:
-#각오:
 print('Hello, World')
